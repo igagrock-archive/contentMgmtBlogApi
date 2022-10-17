@@ -1,5 +1,5 @@
 
-# API for an template website for articles
+#  Java App for content management blog with user mangement
 
 
 
