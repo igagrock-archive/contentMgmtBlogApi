@@ -3,8 +3,8 @@
 
 
 
-> ##Authentication Rules for API
-> ###GET REQUESTS
+> ## Authentication Rules for API
+> ### GET REQUESTS
 
 ```
 1) users              -- Delete the resource after testing
@@ -18,7 +18,7 @@
 
 ```
 
-  > ###POST REQUESTS
+  > ### POST REQUESTS
   
  ```
  1) users 						 -- AuthRequired
@@ -27,7 +27,7 @@
  ```
  
  
- > ###PUT REQUESTS
+ > ### PUT REQUESTS
  
  
  ```
@@ -37,7 +37,7 @@
  ```
  
 
-> ###DELETE REQUESTS
+> ### DELETE REQUESTS
 
 ```
  1)  users/{user_name} -- AuthRequired
